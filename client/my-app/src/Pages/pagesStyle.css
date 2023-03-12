@@ -1,0 +1,71 @@
+#userStats{
+    padding: 20px;
+}
+
+#infoBox{
+    /* position: absolute; */
+    /* right: 100px; */
+}
+
+#reviewContent{
+    margin-top: 50px;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+#content{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#mainContent{
+    margin-top: 50px;
+}
+
+#albumRows{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#searchBar{
+    width: 50%;
+}
+
+#reviewBlurb{
+    margin-left: 50px;
+}
+
+/* #errorBlob{
+    position: absolute;
+} */
+
+#RatingBox{
+    width: 350px;
+    /* background-color: rgb(75, 74, 74); */
+    /* text-col */
+}
+
+#reviewStack{
+
+}
+
+#boxRev{
+    width: 1000px;
+    margin-left: 100px;
+    padding: 50px;
+    box-shadow: 10px 10px  10px rgb(144, 144, 144);
+}
+
+#hrR{
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color:#FFFF00;
+    height: 1px;
+  }
+
+  #buttonInt{
+    width: 100px;
+    margin-right: 15px;
+  }
